@@ -1,6 +1,6 @@
-function objects(recipes)
+function recipes()
 {
-  var recipes = {};
+  var recipes = {}
   
 }
 
